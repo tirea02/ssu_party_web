@@ -1,35 +1,18 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn. 
+html5up.net | @ajlkn.
 Modified by team SWContest-collapsed. @tirea
 link : https://ssugether.firebaseapp.com/
-	
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+SSUgether는 숭실대 학생들이 자신들의 프로필을 기준으로 자유롭게 팀원을 찾게 도와주는 모바일 서비스 입니다.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
+이 웹사이트는 SSUgether 어플을 위한 랜딩 페이지입니다.
 ==============================================================================
-Modified | @tirea.  
-tirea02@gmail.com 
+Modified | @tirea.
+tirea02@gmail.com
 
-Added background image, spotlight section
 
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
